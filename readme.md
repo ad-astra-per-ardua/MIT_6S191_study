@@ -1,4 +1,4 @@
-[![banner](assets/banner.png)](http://introtodeeplearning.com)
+![banner](https://raw.githubusercontent.com/aamini/introtodeeplearning/master/assets/banner.png)
 
 
 # Instructions

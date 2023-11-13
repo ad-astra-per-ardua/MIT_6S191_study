@@ -99,7 +99,7 @@ More accurate estimation of gradient는 즉, 수렴을 더 smoother하게 하고
 
 **Underfitting은** model의 complexity가 높지않아, data를 학습하기에, capacity가 부족하다는것이고,
 
-**OVerfitting은** 반대로, complexity가 너무 높아, training data에 대한 오차는 감소하지만, test data에 적용할 경우 오차가 증가한다.
+**Overfitting은** 반대로, complexity가 너무 높아, training data에 대한 오차는 감소하지만, test data에 적용할 경우 오차가 증가한다.
 
 결국 두 경우 모두 test data에 대해 제대로 일반화가 되지않는다.
 
